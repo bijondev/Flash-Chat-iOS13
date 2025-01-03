@@ -48,5 +48,5 @@ struct K {
 
 ```
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.bijon.me](https://www.bijon.me/)
+>This is a companion project to The App Complete Developement Bootcamp, check out the full course at [www.bijon.me](https://www.bijon.me/)
 
